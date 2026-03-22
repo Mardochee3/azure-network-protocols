@@ -21,8 +21,8 @@ In this video, i demonstrate how to capture and analayze network traffic between
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2) We use windows 10 (21h2) to perform desktop based tasks, allowing us to simulate user interactions and client side applications
-- Ubuntu Server 20.04 We deploy ubuntu server 20.04 for cloud based and server side operations, providing a lightweight, secure environment for backend processes and network testing.
+- Windows 10 (21H2) We use windows 10 (21h2) to perform desktop-based tasks, allowing us to simulate user interactions and test client-side applications
+- Ubuntu Server 20.04 We use ubuntu server 20.04 for cloud-based and server-side operations, providing a lightweight and secure environment for backend processes and network testing.
 
 <h2>High-Level Steps</h2>
 
