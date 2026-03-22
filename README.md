@@ -26,10 +26,10 @@ In this video, i demonstrate how to capture and analayze network traffic between
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Set up two VMs( Windows and unbuntu) in Azure and ensure they're configured correctly.
+- Step 2 Use Remote Desktop to log into both VMs and verify connectivity.
+- Step 3 Create and assign NSGs to control inbound and outbound traffic between the VMs.
+- Step 4 Install wire shark on one VM, start captruring traffic, and observe protocol actvity like SSH, DNS, AND HTTP.
 
 <h2>Actions and Observations</h2>
 
