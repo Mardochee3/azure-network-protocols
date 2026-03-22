@@ -13,11 +13,11 @@ In this video, i demonstrate how to capture and analayze network traffic between
 (https://youtu.be/Mu_2UnOdVHM?si=Jwl98FpySdpwbuTu)
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
+- Microsoft Azure (Virtual Machines/Compute) We use Azure virtual machines to create scalable cloud-based environments for network experimentation and monitoring.
+- Remote Desktop Remote Desktop allows us to securely log in to these virtual machines, providing direct access for setup and troubleshooting.
+- Various Command-Line Tools We examine network traffic using protocols such as ssh,rdh,dns,https,and icmp,helping us monitor and secure commnications betwwen systems.
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Wireshark (Protocol Analyzer) Wireshark is used to capture and analyze packet-level data, giving us detailed insights into network behavior.
 
 <h2>Operating Systems Used </h2>
 
